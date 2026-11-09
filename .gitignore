@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+
+# PantryTrack data (never commit real business data)
+*.db
+order.csv
+waste.png
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
