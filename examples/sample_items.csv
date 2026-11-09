@@ -1,0 +1,15 @@
+name,unit,category,quantity,reorder_level,unit_cost,supplier
+Feta cheese,kg,dairy,6,2,8.50,Dairy Co
+Milk,l,dairy,12,6,1.10,Dairy Co
+Greek yoghurt,kg,dairy,4,2,4.20,Dairy Co
+Tomatoes,kg,produce,15,5,1.60,Green Market
+Cucumbers,kg,produce,8,3,1.20,Green Market
+Lemons,pcs,produce,40,15,0.25,Green Market
+Fresh basil,bunch,produce,6,2,1.00,Green Market
+Olive oil,l,dry goods,10,4,7.80,Olive Grove Ltd
+Flour,kg,dry goods,25,8,0.85,Mill SA
+Rice,kg,dry goods,10,4,1.40,Mill SA
+Chicken breast,kg,meat,8,3,7.20,Butcher Bros
+Minced beef,kg,meat,5,2,9.50,Butcher Bros
+Coffee beans,kg,beverages,6,2,18.00,Bean Roasters
+Paper cups,box,packaging,5,2,12.00,PackIt
